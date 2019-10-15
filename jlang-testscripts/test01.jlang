@@ -1,0 +1,29 @@
+int x = 1
+write x
+int y = x + 7
+write y
+//this is a test of comments
+/*
+this
+is
+a
+multi
+line
+comment
+*/
+string z = "test"
+write z
+float a = 1.234
+write a
+float b = a + 4.567
+write b
+bool c = true
+write c
+if (c) {
+	write "the if statement worked!"
+}
+int p = 1
+while (p < 6) {
+	write p
+	p = p + 1
+}

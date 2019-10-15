@@ -1,0 +1,20 @@
+string a = "test"
+if (a == "test1") {
+	write "testabc"
+} elseif (a == "test2") {
+	write "test1"
+} elseif (a == "test3") {
+	write "test2"
+} elseif (a == "test4") {
+	write "test3"
+} elseif (a == "test5") {
+	write "test4"
+} elseif (a == "test6") {
+	write "test5"
+} elseif (a == "7") {
+	write "test"
+} elseif (a == "test") {
+	write "test of multiple elseif's"
+} else {
+	write "12345"
+}

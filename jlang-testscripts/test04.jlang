@@ -1,0 +1,37 @@
+float a = 1.234
+switch (a) {
+	case 42.42:
+		write "case1"
+		break
+	case 7.777777777:
+		write "ewrdtfgdg"
+		break
+	case 1.234:
+		write "qwertyuiop"
+		break
+	default:
+		write "default"
+		break
+}
+
+int b = 12345
+switch (b) {
+	case 1:
+		write "case1"
+		break
+	case 2:
+		write "case2"
+		break
+	case 3:
+		write "case3"
+		break
+	case 4:
+		write "case4"
+		break
+	case 5:
+		write "case5"
+		break
+	default:
+		write "tetsing switch default case"
+		break
+}
